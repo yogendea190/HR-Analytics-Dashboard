@@ -194,11 +194,6 @@ images/: Screenshots of the dashboard and charts.
 HR_Analytics_Dashboard_Final.xlsx: Final Excel file with the completed dashboard.
 
 
-How to Run the Project
-
-Clone the Repository:git clone https://github.com/your-username/HR-Analytics-Dashboard-in-Excel.git
-
-
 Open the Dataset: Download HR_Analytics_Data.xlsx from the dataset folder.
 Follow the Steps: Replicate the steps in the "Step-by-Step Implementation" section using Microsoft Excel.
 Explore the Dashboard: Open HR_Analytics_Dashboard_Final.xlsx to interact with the final dashboard.
