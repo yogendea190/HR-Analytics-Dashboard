@@ -220,8 +220,8 @@ Create a Power BI version of the dashboard for enhanced interactivity.
 Contact
 For questions or feedback, feel free to reach out:  
 
-GitHub: Your GitHub Profile  
-Email: [Your Email Address]
+GitHub: https://github.com/yogendea190/HR-Analytics-Dashboard
+Email: Yogi607080@gmail.com
 
 
 This project was developed to demonstrate HR analytics and data visualization skills for an MIS Executive role.
